@@ -1,0 +1,54 @@
+# Products
+@baseUrl=http://localhost:4000/api
+
+@resourceName=products
+
+# Products
+
+# @name getAllProducts
+GET http://localhost:4000/api/products
+
+###
+
+# @name fillterProducts
+
+GET http://localhost:4000/api/products?price_lte=50
+
+###
+
+# @name pagination
+
+GET http://localhost:4000/api/products?_page=1&_limit=5
+
+
+
+###
+
+# @name addNewProduct
+POST http://localhost:4000/api/products
+Content-Type: application/json
+
+{
+   "categoryId": "fd85521c-a83d-40a8-81e8-7d69625e2628",
+   "name": "kem khói",
+   "price": 19,
+   "isSpecial": true,
+   "description": "Kem khói, thỏi bay cả núi ^^",
+   "thumbnailUrl": "https://benh.vn/wp-content/uploads/2018/04/nguy-hai-khi-an-kem-may-nha-khoi-benh_vn.jpg" 
+}
+
+###
+
+# @name updateProduct
+PATCH {{baseUrl}}/{{resourceName}}/Fx3UP6d
+Content-Type: application/json
+
+{
+   "isSpecial": false
+}
+
+
+### 
+
+# @name removeProduct
+DELETE http://localhost:4000/api/products/Hqd5OJi

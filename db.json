@@ -1,0 +1,462 @@
+{
+  "categories": [
+    {
+      "id": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "Kem",
+      "createdAt": 1647239325197,
+      "updatedAt": 1647239325197
+    },
+    {
+      "id": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "Thức uống",
+      "createdAt": 1647239325197,
+      "updatedAt": 1647239325197
+    },
+    {
+      "id": "fce3fc19-7dec-4b15-a48b-ff9bb8b26cb7",
+      "name": "Món phụ",
+      "createdAt": 1647239325197,
+      "updatedAt": 1647239325197
+    },
+    {
+      "id": "fd85521c-a83d-40a8-81e8-7d69625e2628",
+      "name": "Kem mới",
+      "createdAt": 1647239325197,
+      "updatedAt": 1647239325197
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem kiwi",
+      "price": 25,
+      "isSpecial": false,
+      "description": "Kem Kiwi được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn",
+      "thumbnailUrl": "https://cdn.dayphache.edu.vn/wp-content/uploads/2016/04/kem-kiwi-min-xot.jpg",
+      "createdAt": 1678596833719,
+      "updatedAt": 1678596833719,
+      "id": "A5crnCU"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem dâu",
+      "price": 20,
+      "isSpecial": false,
+      "description": "Kem dâu tây là một hương vị của kem làm từ dâu tây hoặc hương dâu tây. Nó được làm bằng cách trộn trong dâu tây tươi hoặc hương vị dâu tây với trứng, kem, vani và đường được sử dụng để làm kem, rất thú vị khi ăn vào mùa hè ^^.",
+      "thumbnailUrl": "https://2sao.vietnamnetjsc.vn/images/2017/11/10/15/51/kem-dau-tay.jpg",
+      "createdAt": 1678597107326,
+      "updatedAt": 1678597107326,
+      "id": "NAzAOCR"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem chuối",
+      "price": 17,
+      "isSpecial": true,
+      "description": "Kem chuối được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://i.vietgiaitri.com/2022/3/19/cach-lam-kem-chuoi-bo-dau-phong-don-gian-bang-may-xay-sinh-to-c56-6362555.png",
+      "createdAt": 1678597531400,
+      "updatedAt": 1678684237513,
+      "id": "FgUVgiD"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem dứa",
+      "price": 22,
+      "isSpecial": false,
+      "description": "Kem dứa được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://pastaxi-manager.onepas.vn/content/uploads/articles/ngocanh/Blog/cach-lam-kem-dua/cach-lam-kem-dua-1.jpg",
+      "createdAt": 1678597734753,
+      "updatedAt": 1678597734753,
+      "id": "HizSBe2"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem socola",
+      "price": 30,
+      "isSpecial": false,
+      "description": "Kem socola được làm từ 100% socola nguyên chất, Sô-cô-la được làm từ những hạt của cây cacao được sấy khô và nghiền nhỏ. Nguồn gốc của cây cacao là từ México, những hạt cây cacao có mùi vị hơi đắng. Kết quả của quá trình đó được biết đến với tên gọi là sô-cô-la. Sản phẩm từ hạt cacao được biết đến với những tên gọi khác nhau tại những vùng khác nhau trên Trái Đất.",
+      "thumbnailUrl": "https://vnn-imgs-f.vgcloud.vn/2021/08/18/20/cach-lam-kem-socola.jpg",
+      "createdAt": 1678598083771,
+      "updatedAt": 1678598083771,
+      "id": "-xQlzbd"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem dừa",
+      "price": 14,
+      "isSpecial": false,
+      "description": "Kem dừa được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://vietblend.vn/wp-content/uploads/2018/12/cach-lam-kem-dua-don-gian-tai-nha-1.jpg",
+      "createdAt": 1678598454249,
+      "updatedAt": 1678598454249,
+      "id": "gA09m0_"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem xoài",
+      "price": 19,
+      "isSpecial": false,
+      "description": "Kem xoài được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://giadinh.mediacdn.vn/zoom/740_463/2020/5/27/photo-1-15905452094761773332335.jpg",
+      "createdAt": 1678598629168,
+      "updatedAt": 1678598629168,
+      "id": "UXTHrEv"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem mận",
+      "price": 19,
+      "isSpecial": false,
+      "description": "Kem mận được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "http://media.vietq.vn/files/ctvhanh/bc_4.jpg",
+      "createdAt": 1678598744124,
+      "updatedAt": 1678598744125,
+      "id": "2lYeDnI"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem bơ",
+      "price": 25,
+      "isSpecial": false,
+      "description": "Kem bơ được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://cdn.dayphache.edu.vn/wp-content/uploads/2019/12/kem-bo.jpg",
+      "createdAt": 1678598862091,
+      "updatedAt": 1678598862091,
+      "id": "06MUedM"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem sầu riêng",
+      "price": 27,
+      "isSpecial": false,
+      "description": "Kem sầu riêng được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://xukachan.com/wp-content/uploads/2019/06/kem-sau-rieng.jpg",
+      "createdAt": 1678598999835,
+      "updatedAt": 1678598999835,
+      "id": "Fl7h5V4"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem Gà Gán",
+      "price": 49,
+      "isSpecial": true,
+      "description": "Kem gà rán được làm từ 100% gà công nghiệp kết hợp với kem, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Vị kem tươi sẽ tạo thêm vị giác thực sự gà thêm ngon. Chưa kể kem gà còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://lambanhngon.com/news_pictures/xwi1653888061.png",
+      "createdAt": 1678599288288,
+      "updatedAt": 1678599288288,
+      "id": "HyCp8tB"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà matcha",
+      "price": 25,
+      "isSpecial": false,
+      "description": "Trà sử dụng bột matcha và lục trà (trà xanh) để tạo nên hương vị trà thanh nhẹ, thích hợp với người dễ bị say trà. Với công dụng tuyệt vời của matcha, ngoài là thức uống giải khát thì trà sữa matcha cung cấp cho cơ thể một lượng vitamin A và vitamin C vừa đủ, giúp cơ thể giải tỏa căng thẳng và mệt mỏi.",
+      "thumbnailUrl": "https://cdn.dayphache.edu.vn/wp-content/uploads/2018/02/tra-sua-matcha.jpg",
+      "createdAt": 1678599852399,
+      "updatedAt": 1678599852399,
+      "id": "78j830k"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà đào",
+      "price": 10,
+      "isSpecial": false,
+      "description": "Fan trà đào điểm danh ^^",
+      "thumbnailUrl": "https://cdn.beptruong.edu.vn/wp-content/uploads/2019/02/thuc-uong-giai-nhiet.jpg",
+      "createdAt": 1678600460099,
+      "updatedAt": 1678600460099,
+      "id": "vpso_eS"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà sữa",
+      "price": 25,
+      "isSpecial": false,
+      "description": "Fan trà sữa điểm danh ^^",
+      "thumbnailUrl": "https://giupban.com.vn/wp-content/uploads/evj1583158995.jpg",
+      "createdAt": 1678600572791,
+      "updatedAt": 1678600572791,
+      "id": "P5a_wZZ"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà dâu",
+      "price": 12,
+      "isSpecial": false,
+      "description": "Trà dâu được làm quả dâu và một loại trà xanh nên nó có hầu hết số các dưỡng chất trong hai thành phần này. Ví dụ như: protein, chất xơ, chất béo,... và các loại vitamin như vitamin A, vitamin C, vitamin E, vitamin K,...",
+      "thumbnailUrl": "https://media.cooky.vn/recipe/g6/55209/s640/c6ace5e5-7372-4941-8449-be13897f3c69.jpeg",
+      "createdAt": 1678600652760,
+      "updatedAt": 1678600652760,
+      "id": "B26DglR"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà ổi",
+      "price": 12,
+      "isSpecial": false,
+      "description": "Trà ổi được làm quả ổi và một loại trà xanh nên nó có hầu hết số các dưỡng chất trong hai thành phần này. Ví dụ như: protein, chất xơ, chất béo,... và các loại vitamin như vitamin A, vitamin C, vitamin E, vitamin K,...",
+      "thumbnailUrl": "https://cdn.dayphache.edu.vn/wp-content/uploads/2021/03/tra-oi-hong-thoang-thoang-hoa-nhai.jpg",
+      "createdAt": 1678600792014,
+      "updatedAt": 1678600792014,
+      "id": "WxALmeP"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà lipton",
+      "price": 15,
+      "isSpecial": false,
+      "description": "Pha chế từ gói trà lipton nguyên chất ^^",
+      "thumbnailUrl": "https://img-global.cpcdn.com/recipes/97caf1ce5bff0156/1200x630cq70/photo.jpg",
+      "createdAt": 1678601200756,
+      "updatedAt": 1678601200756,
+      "id": "BPlrg_D"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "Cafe sữa",
+      "price": 15,
+      "isSpecial": false,
+      "description": "Pha chế từ gói cà phê Pin nguyên chất kết hợp với sữa đặc, tạo ra một tuyệt phẩm thế gian đó nha.",
+      "thumbnailUrl": "data:image/jpeg;base64,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",
+      "createdAt": 1678601366965,
+      "updatedAt": 1678601366965,
+      "id": "WS7qlzL"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà cúc",
+      "price": 14,
+      "isSpecial": false,
+      "description": "Trà hoa cúc là gì? Đây là một loại trà thảo mộc có thành phần chính từ hoa cúc khô. Theo nhiều nghiên cứu, hoa cúc dùng làm trà có tên khoa học là Chrysanthemum Indicum, họ Asteraceae, có vị đắng, cay, tính mát, tác dụng thanh nhiệt, giải độc, bổ não và chữa suy nhược thần kinh.",
+      "thumbnailUrl": "https://cdn.daotaobeptruong.vn/wp-content/uploads/2021/02/tra-hoa-cuc.jpg",
+      "createdAt": 1678601597076,
+      "updatedAt": 1678601597076,
+      "id": "Gqe2jP8"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà dứa",
+      "price": 17,
+      "isSpecial": true,
+      "description": "Trà Sâm Dứa là loại trà được chế biết kết hợp từ các nguyên liệu tự nhiên như búp trà xanh, trà tiên, lá dứa,… Vì thế mà trà có hương vị rất đặc biệt, đó là sự hài hòa quyện của các loại thảo mộc tự nhiên tạo nên hương thơm quyến rũ khiến người thưởng thức thấy nhẹ nhàng, khoan khoái, không gây khó chịu.",
+      "thumbnailUrl": "https://haitratancuong.com/vnt_upload/news/03_2023/tra_dua_thom_mat.jpg",
+      "createdAt": 1678601790813,
+      "updatedAt": 1678601790813,
+      "id": "KFZqIvM"
+    },
+    {
+      "categoryId": "3a71ec42-9e78-445c-9b77-84f14ee130e5",
+      "name": "trà hạt sen",
+      "price": 25,
+      "isSpecial": false,
+      "description": "Làm từ hạt sen nguyên chất 100% không chất bảo quản.",
+      "thumbnailUrl": "https://hocphache.com.vn/wp-content/uploads/2020/02/tra-sen-vang.jpg",
+      "createdAt": 1678602041253,
+      "updatedAt": 1678684331813,
+      "id": "Fx3UP6d"
+    },
+    {
+      "categoryId": "fce3fc19-7dec-4b15-a48b-ff9bb8b26cb7",
+      "name": "bánh trán trộn",
+      "price": 15,
+      "isSpecial": false,
+      "description": "Bánh trán trộn siêu ngon của quán ạ ^^",
+      "thumbnailUrl": "https://cdn.cet.edu.vn/wp-content/uploads/2018/03/cach-lam-banh-trang-tron.jpg",
+      "createdAt": 1678602585017,
+      "updatedAt": 1678602585017,
+      "id": "NcIYh6r"
+    },
+    {
+      "categoryId": "fce3fc19-7dec-4b15-a48b-ff9bb8b26cb7",
+      "name": "bánh trán hành",
+      "price": 11,
+      "isSpecial": false,
+      "description": "Bánh trán hành siêu ngon của quán ạ ^^",
+      "thumbnailUrl": "https://cdn.tgdd.vn/2021/08/CookProduct/banhtrangmohanh-1200x676.jpg",
+      "createdAt": 1678602691212,
+      "updatedAt": 1678602691212,
+      "id": "AgDufdD"
+    },
+    {
+      "categoryId": "fce3fc19-7dec-4b15-a48b-ff9bb8b26cb7",
+      "name": "phô mai que",
+      "price": 17,
+      "isSpecial": false,
+      "description": "Phô mai que siêu ngon của quán ạ ^^",
+      "thumbnailUrl": "https://cdn.beptruong.edu.vn/wp-content/uploads/2013/01/pho-mai-que.jpg",
+      "createdAt": 1678602803276,
+      "updatedAt": 1678602803276,
+      "id": "4_wqKRR"
+    },
+    {
+      "categoryId": "fce3fc19-7dec-4b15-a48b-ff9bb8b26cb7",
+      "name": "trứng cúc gan me",
+      "price": 17,
+      "isSpecial": true,
+      "description": "Trứng cúc lộn thì không được lộn xộn nhé khách yêu ^^",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2xvEzD65jVQ/maxresdefault.jpg",
+      "createdAt": 1678602938840,
+      "updatedAt": 1678682656716,
+      "id": "SM-OsQa"
+    },
+    {
+      "categoryId": "fce3fc19-7dec-4b15-a48b-ff9bb8b26cb7",
+      "name": "trứng cúc chiên",
+      "price": 15,
+      "isSpecial": false,
+      "description": "Trứng cúc chiên chấm tương ớt là hết sảy con bà bảy luôn^^",
+      "thumbnailUrl": "https://cdn.tgdd.vn/2021/08/CookProduct/t1-1200x676-3.jpg",
+      "createdAt": 1678603069180,
+      "updatedAt": 1678603069180,
+      "id": "Sllyw-F"
+    },
+    {
+      "categoryId": "fce3fc19-7dec-4b15-a48b-ff9bb8b26cb7",
+      "name": "khoai tây chiên",
+      "price": 20,
+      "isSpecial": false,
+      "description": "100% từ trái khoai tây.",
+      "thumbnailUrl": "http://cdn.tgdd.vn/Files/2020/08/19/1281398/6-cach-lam-khoai-tay-chien-gion-vang-ruom-don-gian-tai-nha-202202161453593202.jpg",
+      "createdAt": 1678603782761,
+      "updatedAt": 1678603782761,
+      "id": "hjulyrJ"
+    },
+    {
+      "categoryId": "fce3fc19-7dec-4b15-a48b-ff9bb8b26cb7",
+      "name": "tàu hủ chiên",
+      "price": 15,
+      "isSpecial": true,
+      "description": "100% từ đậu hủ nguyên chất + công thức đặc biệt, nói không với chất bảo quản, siêu ngon từ giới trẻ ^^.",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZxreCovnFPQ/maxresdefault.jpg",
+      "createdAt": 1678682438996,
+      "updatedAt": 1678682438996,
+      "id": "M5OIDAn"
+    },
+    {
+      "categoryId": "fd85521c-a83d-40a8-81e8-7d69625e2628",
+      "name": "kem que dưa hấu",
+      "price": 8,
+      "isSpecial": true,
+      "description": "Kem que dưa hấu được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem que. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://cdn.huongnghiepaau.com/wp-content/uploads/2020/02/kem-dua-hau-mat-lanh.jpg",
+      "createdAt": 1678683191924,
+      "updatedAt": 1678683191924,
+      "id": "nVIHaaG"
+    },
+    {
+      "categoryId": "fd85521c-a83d-40a8-81e8-7d69625e2628",
+      "name": "kem que xoài thái",
+      "price": 5,
+      "isSpecial": false,
+      "description": "Kem que xoài được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem que. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://hc.com.vn/i/ecommerce/media/ckeditor_3193460.jpg",
+      "createdAt": 1678683495750,
+      "updatedAt": 1678683495750,
+      "id": "gs86qvF"
+    },
+    {
+      "categoryId": "fd85521c-a83d-40a8-81e8-7d69625e2628",
+      "name": "kem que caramel",
+      "price": 10,
+      "isSpecial": true,
+      "description": "Kem que caramel được làm từ 100% cà phê và sữa, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức sẽ tạo thêm vị giác thực sự cho kem que. Chưa kể còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://cdn.tgdd.vn/2020/07/CookProduct/ava-1200x676-6.jpg",
+      "createdAt": 1678683743690,
+      "updatedAt": 1678683743690,
+      "id": "zdlccFh"
+    },
+    {
+      "categoryId": "fd85521c-a83d-40a8-81e8-7d69625e2628",
+      "name": "kem que trái cây",
+      "price": 8,
+      "isSpecial": true,
+      "description": "Kem que trái cây được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem que. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "https://danviet.mediacdn.vn/296231569849192448/2021/6/23/8fd9376fd38e472da459696f8c3f669d-1624383845596-1624383845739911090151.jpeg",
+      "createdAt": 1678683902456,
+      "updatedAt": 1678683902456,
+      "id": "QYFEJvz"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem thanh long",
+      "price": 23,
+      "isSpecial": true,
+      "description": "Kem thanh long được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn",
+      "thumbnailUrl": "https://bepnha.kingfoodmart.com/wp-content/uploads/2021/10/cach-lam-kem-thanh-long-djo-ruc-mon-trang-mieng-315329066134.jpg",
+      "createdAt": 1678695822047,
+      "updatedAt": 1678695822047,
+      "id": "fMxZOtb"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem matcha",
+      "price": 27,
+      "isSpecial": false,
+      "description": "Kem matcha được làm từ 100% lá trà xanh, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức sẽ tạo thêm vị giác thực sự cho kem. Chưa kể còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn",
+      "thumbnailUrl": "https://bizweb.dktcdn.net/100/264/957/articles/lam-kem-matcha.jpg?v=1551077517500",
+      "createdAt": 1678696012766,
+      "updatedAt": 1678696012766,
+      "id": "FYGFQkH"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem cam",
+      "price": 22,
+      "isSpecial": false,
+      "description": "Kem cam được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn",
+      "thumbnailUrl": "http://cdn.tgdd.vn/Files/2021/08/23/1377261/cach-lam-kem-cam-chua-ngot-deo-min-ngon-me-ly-tai-nha-202108232017110080.jpg",
+      "createdAt": 1678696175793,
+      "updatedAt": 1678696175793,
+      "id": "3rCGRc9"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem mãng cầu",
+      "price": 20,
+      "isSpecial": false,
+      "description": "Kem mãng cầu được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn",
+      "thumbnailUrl": "https://blog.beemart.vn/wp-content/uploads/2016/04/cach-lam-kem-mang-cau-ngot-mat-ngon-me-ly-de-dang-o-nha-7.jpg",
+      "createdAt": 1678696357745,
+      "updatedAt": 1678696357745,
+      "id": "Qb6zwU6"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem khổng lồ",
+      "price": 99,
+      "isSpecial": false,
+      "description": "Kem tổng hợp được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn",
+      "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKIELRHJkzAvroS8M-MSdVyiB49Msfes7F0Q&usqp=CAU",
+      "createdAt": 1678696504604,
+      "updatedAt": 1678696504604,
+      "id": "Mq_TZzA"
+    },
+    {
+      "categoryId": "39611407-ce94-4003-8f33-4690aa165525",
+      "name": "kem bánh bao",
+      "price": 39,
+      "isSpecial": true,
+      "description": "Kem bên ngoài là bột bánh bên trong được làm từ 100% trái cây tươi, hoàn toàn thơm ngon và thỏa mãn cho những ngày hè nóng bức. Trái cây tươi sẽ tạo thêm vị giác thực sự cho kem. Chưa kể trái cây còn làm cho bất kỳ món tráng miệng nào trở nên lành mạnh và sảng khoái hơn.",
+      "thumbnailUrl": "http://kemtrangtien.com.vn/images/kem-ngon-nhat-5(1).jpg",
+      "createdAt": 1678696823749,
+      "updatedAt": 1678696823749,
+      "id": "6lozg16"
+    },
+    {
+      "categoryId": "fd85521c-a83d-40a8-81e8-7d69625e2628",
+      "name": "kem khói",
+      "price": 19,
+      "isSpecial": true,
+      "description": "Kem khói, thỏi bay cả núi ^^",
+      "thumbnailUrl": "https://benh.vn/wp-content/uploads/2018/04/nguy-hai-khi-an-kem-may-nha-khoi-benh_vn.jpg",
+      "createdAt": 1678697917277,
+      "updatedAt": 1678697917277,
+      "id": "uZXBZmz"
+    }
+  ],
+  "profile": {
+    "name": "Po"
+  }
+}
